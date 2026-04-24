@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(222, 223, 171);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    margin: 30px;
+}
+
+h1{
+    color:rgb(255, 0, 0);
+    text-align: center;
+    margin: 20px;
+}
+
+p{
+    text-align: justify;
+    font-size: 17px;
+    line-height: 1.5;
+    color:rgb(218, 39, 224)
+}
+
+strong{
+    color:rgb(0, 225, 255)
+}
+i{
+    color:rgb(255, 140, 0)
+}
+span{
+    color:rgb(0, 17, 255);
+}
